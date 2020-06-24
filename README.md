@@ -17,4 +17,4 @@ This was a investigation into noise, during uni i had one lesson on it and never
 I always wanted to recreate the simpler games, snake, minesweeper, pacman... the list goes on.
 
 ### Snake
-Fun and simple game. Eat the fruit and the snake gets bigger, 
+Fun and simple game. Eat the fruit and the snake gets bigger. I loved it on my Nokia Brick.
