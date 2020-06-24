@@ -9,7 +9,7 @@ Here I got inspired to use P5 https://p5js.org/ to start visualising and impleme
 
 ## Bubble Sort
 This is a simple start, but it will visualise the way in which bubble sort, sorts numbers. https://en.wikipedia.org/wiki/Bubble_sort  
-[Bubblesort](../blob/master/bubblesort/index.html)
+[Bubblesort](./bubblesort/index.html)
 
 ## 2D Dimentional Island Generation
 This was a investigation into noise, during uni i had one lesson on it and never had a chance to grasp what could be done. This is a simple implementation but was enlightening to me for how perlin noise provides great random numbers for land generation.
